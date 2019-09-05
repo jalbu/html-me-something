@@ -1,0 +1,30 @@
+body {
+    background: black;
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto
+    background-color: #999;
+    font-size: 62.5%;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+section {
+    margin-right: auto;
+    font-family: 'Calibri';
+}
+
+/*
+body {
+    color: white;
+    background-color: black;
+    font-family: 'Sacramento', cursive;
+    font-size: 32px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+*/
