@@ -1,10 +1,26 @@
 body {
-    background: black;
+    background-color: #999;
     width: 100%;
     max-width: 1024px;
-    margin: 0 auto
-    background-color: #999;
-    font-size: 62.5%;
+    margin: 0 auto;
+}
+
+header {
+    font-size: 30px;
+    font-size: 1.6em;
+    text-align: center
+}
+
+header,
+main,
+footer {
+    background-color: #ddd;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
 }
 
 img {
@@ -15,6 +31,10 @@ img {
 section {
     margin-right: auto;
     font-family: 'Calibri';
+}
+
+p {
+    padding: 0em;
 }
 
 /*
